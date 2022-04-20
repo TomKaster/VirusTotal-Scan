@@ -1,5 +1,5 @@
 # VirusTotal-Scan
-Automate retrieving file hash using certutil, then input the hash to VirusTotal and return the scan results.
+Automate retrieving sha256 file hash using certutil, then input the hash to VirusTotal and return the scan results.
 
 **Prerequisites:**
 ```python
